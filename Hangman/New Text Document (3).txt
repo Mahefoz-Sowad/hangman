@@ -1,0 +1,4 @@
+C:\Users\Sowad Hasan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\english_words\data\\web2.pickle;english_words/data
+python -m PyInstaller --onefile --noconsole --add-data "hangmanHP;hangmanHP" --add-data "C:\Users\Sowad Hasan\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\english_words\data\\web2.pickle;english_words/data" game_v1.0.py
+
+python -m PyInstaller --onefile --noconsole --add-data "hangmanHP;hangmanHP" game_v1.0.py
